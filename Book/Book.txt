@@ -1,0 +1,2 @@
+http://neuralnetworksanddeeplearning.com/chap1.htmla
+https://www.deeplearningbook.org/
